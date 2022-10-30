@@ -1,2 +1,7 @@
-this is a file created for my first github cloning project with a brand-new user account via windows 
-terminal.
+1- this is a file created for my first github cloning project with a brand-new user account via windows 
+terminal. 
+
+2- now it works, the problem was, I have to create the the directory and files on my local after I create my new
+github account and repository. in addition, when I push the changes on the files on my local machine, I have
+to use the command 'git push' instead of 'git push origin main/master', at least for the first push.
+now everything works.
